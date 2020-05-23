@@ -3,7 +3,7 @@
 
 #define PAVETRA_ENDPOINT "https://pavetra.online/devices/data"
 #define PAVETRA_TOKEN ""
-#define PAVETRA_HTTPS_FINGERPRINT "F5 1B 7D A0 A5 8E 9E 07 9E 9F 7E F9 0E 0E 8A BE 57 D1 9A 5A"
+#define PAVETRA_HTTPS_FINGERPRINT "8E B6 79 2C 41 0B D7 5A C1 52 C6 2D 48 DA 6C 0B DD 2F FA 25"
 
 #define INFLUX_HOST "eu-central-1-1.aws.cloud2.influxdata.com"
 #define INFLUX_PORT 443
